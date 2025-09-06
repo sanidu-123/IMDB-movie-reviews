@@ -1,9 +1,9 @@
 # IMDB-movie-reviews
-## 1. Introduction and Problem Statement**
+## 1. Introduction and Problem Statement
 
 This project addresses the task of sentiment analysis on the IMDB movie reviews dataset. The goal is to classify movie reviews as either positive or negative based on their textual content. Sentiment analysis has various real-world applications, including understanding customer feedback, monitoring social media sentiment, and market research.
 
-## 2. Methodology and NLP Techniques**
+## 2. Methodology and NLP Techniques
 
 The Natural Language Processing (NLP) pipeline implemented in this notebook includes the following steps:
 
@@ -20,7 +20,7 @@ The Natural Language Processing (NLP) pipeline implemented in this notebook incl
 *   **Evaluation:** The models were evaluated using standard classification metrics, including Accuracy, F1-score, Confusion Matrix, and Classification Report.
 *   **Visualization:** t-SNE (t-Distributed Stochastic Neighbor Embedding) was used to visualize the high-dimensional feature representations (TF-IDF, Word2Vec, fastText embeddings) in a 2D space to observe how well the positive and negative sentiment reviews are separated.
 
-# 3. Results and Discussion**
+# 3. Results and Discussion
 
 The models were trained and evaluated using the different feature representations and preprocessing techniques. The performance metrics (Accuracy and F1-score) were compared across the models and feature types.
 
